@@ -1,1 +1,1 @@
-web: gunicorn LabPBP0.wsgi --log-file -
+web: gunicorn website-katab.wsgi --log-file -
